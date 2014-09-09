@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Uifaces::VERSION
   spec.authors       = ["Rutul Dave"]
   spec.email         = ["rutul98@yahoo.com"]
-  spec.description   = %q{Simple ruby library to retrieve a random image from uifaces.com}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{}
+  spec.summary       = %q{A ruby library for http://uifaces.com}
+  spec.homepage      = "https://github.com/stockandawe/uifaces"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
